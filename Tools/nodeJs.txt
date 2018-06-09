@@ -1,0 +1,2 @@
+cd "C:\Users\Admin\Documents\GitHub\Drone\Release\Scratch"
+"C:\Program Files\nodejs\node" Tello.js
